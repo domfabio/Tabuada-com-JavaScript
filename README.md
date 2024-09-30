@@ -1,4 +1,4 @@
-# 🔢 Projeto Tabuada com JavaScript 
+# 🔢 Tabuada com JavaScript 
 
 <br />
 
