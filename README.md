@@ -1,5 +1,7 @@
 # 🔢 Projeto Tabuada com JavaScript 
 
+<br />
+
 <div>
     <h2>🎯 Sobre o Projeto</h2>
     Este é o primeiro projeto utilizando <strong>JavaScript</strong>, focado em criar uma aplicação de multiplicação dinâmica, manipulando o DOM e gerando conteúdo interativo via <code>DOMParser</code>.
