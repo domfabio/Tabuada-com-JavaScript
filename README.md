@@ -1,7 +1,9 @@
 # 🔢 Projeto Tabuada com JavaScript 
 
-<h3>🎯 Sobre o Projeto</h3>
-Este é o primeiro projeto utilizando **JavaScript**, focado em criar uma aplicação de multiplicação dinâmica, manipulando o DOM e gerando conteúdo interativo via `DOMParser`.
+<div>
+    <h3>🎯 Sobre o Projeto</h3>
+    Este é o primeiro projeto utilizando <strong>JavaScript</strong>, focado em criar uma aplicação de multiplicação dinâmica, manipulando o DOM e gerando conteúdo interativo via <code>DOMParser</code>.
+</div>
 
 
 <div style="border: 1px solid #ddd; padding: 10px; margin-top: 10px; border-radius: 5px; background-color: #f9f9f9;">
@@ -16,7 +18,7 @@ Este é o primeiro projeto utilizando **JavaScript**, focado em criar uma aplica
  
 Utilizamos a DOMParser para manipular templates HTML diretamente em JavaScript, convertendo strings em elementos DOM reais.
 
-<br />
+
 
 ## 📸 Screenshots
 ![Captura de tela](./screen/screen.png)
