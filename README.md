@@ -39,7 +39,7 @@ Utilizamos a DOMParser para manipular templates HTML diretamente em JavaScript, 
 Este projeto está disponível para visualização on-line. <br />
 Você pode acessá-lo através do link: https://tabuada-com-java-script.vercel.app/
 
-<br />
+##
 
 <div>
     Este projeto foi desenvolvido como parte do curso <strong>Formação Front-end - HTML, CSS, JavaScript, React e +</strong>, ministrado por <strong>Matheus Battisti</strong> da Escola de Programação <strong>🕒 Hora de Codar</strong>.
